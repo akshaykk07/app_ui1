@@ -16,10 +16,10 @@ class taskbox extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(5),
       child: Container(
-        height: 100,
+        height: 90,
         width: 200,
         decoration: BoxDecoration(
-            color: Colors.grey.withOpacity(0.1),
+            color: Colors.grey.withOpacity(0.2),
             borderRadius: BorderRadius.circular(15)),
         child: Padding(
           padding: const EdgeInsets.only(left: 10, right: 20, top: 15),

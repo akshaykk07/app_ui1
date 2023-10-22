@@ -7,7 +7,7 @@ class stask extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 140,
+      height: 130,
       width: double.infinity,
       color: Colors.white,
       child: ListView(
